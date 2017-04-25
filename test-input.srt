@@ -1,0 +1,24 @@
+44
+00:02:02,128 --> 00:02:03,766
+Oops, wrong again!
+
+45
+00:02:07,208 --> 00:02:09,278
+Careful! Against the wall there.
+
+46
+00:02:14,848 --> 00:02:16,327
+The little cupboard over there.
+
+47
+00:02:16,568 --> 00:02:17,683
+Be careful!
+
+48
+00:02:18,608 --> 00:02:20,166
+Don't break anything!
+
+49
+00:02:20,488 --> 00:02:22,285
+Not on top of the radio!
+
